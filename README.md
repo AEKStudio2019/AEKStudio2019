@@ -33,6 +33,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aekstudio2019&show_icons=true&theme=radical&hide_border=true&locale=en&layout=compact" alt="aekstudio2019" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aekstudio2019&show_icons=true&theme=radical&title_color=000000&text_color=000000&bg_color=000000&hide_border=true&locale=en" alt="aekstudio2019" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aekstudio2019&show_icons=true&theme=radical&title_color=04c9b7&text_color=04c9b7&bg_color=000000&hide_border=true&locale=en" alt="aekstudio2019" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aekstudio2019&theme=highcontrast" alt="aekstudio2019" /></p>
