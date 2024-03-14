@@ -35,4 +35,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aekstudio2019&show_icons=true&theme=tokyonight&title_color=000000&text_color=000000&bg_color=000000&locale=en" alt="aekstudio2019" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aekstudio2019&" alt="aekstudio2019" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aekstudio2019&theme=highcontrast" alt="aekstudio2019" /></p>
