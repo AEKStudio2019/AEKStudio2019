@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Alkataby</h1>
-<h3 align="center">A passionate frontend developer from Yemen</h3>
+<h3 align="center">A passionate indie game developer from Yemen</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aekstudio2019&label=Profile%20views&color=04c9b7&style=flat-square" alt="aekstudio2019" /> </p>
 
